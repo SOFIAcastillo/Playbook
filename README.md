@@ -1,22 +1,38 @@
 # Playbook Format
 
- Mision and Vision of the Company  ([Our Story](#linktowebsite) // [Our Projects](#linktowebsite)).
+Mission and Vision of the Company (Our Story // Our Projects).
 
- Importance of good practices. 
- 
+Importance of good practices.
+
 How the Github is managed.
 
-Ctrl F to facilitate navigation.
+Tips to facilitate navigation through playbook.
+
+Let's check it out!
 
 
-[nuestra marca](https://github.com/progrentisx/playbook/blob/master/marca.md)
+### [About Us](#us)
 
-[personas](https://github.com/progrentisx/playbook/blob/master/personas.md)
+- [Shared Values](#values)
+- [How we form the best teams](#best-teams)
+- [Our People](#people)
 
-[proceso de desarrollo de proyectos](https://github.com/progrentisx/playbook/blob/master/desarrollo_proyectos.md)
+### [Our Projects](#projects)
 
-[comunicación interna](https://github.com/progrentisx/playbook/blob/master/comunicacion_interna.md)
+- [Project 1](#project-one)
+- [Project 2](#project-two)
 
-[comunicación externa](https://github.com/progrentisx/playbook/blob/master/comunicaci%C3%B3n_externa.md)
+### [How we develop our projects](#departamentos)
 
-[nuestras plataformas de preferencia](https://github.com/progrentisx/playbook/blob/master/herramientas.md)
+- [Project Planning](#planning)
+- [Project Execution](#execution)
+
+### [How we communicate](#comunications)
+
+- [Internally](#internal-comunications)
+- [Externally](#external-communications)
+
+### [Tools // Prefered PLatforms](#tools-and-preferred platforms)
+
+- [Tools for Design](#design-tools)
+- [Tools for Developmen](#development-tools)
