@@ -16,7 +16,7 @@ Let's check it out!
 - [Shared Values](#values)
 - [How we form the best teams](#best-teams)
 
-### [Our People](#people)
+### [People](#people)
 
 - [Designers](#values)
 - [Developers](#best-teams)
