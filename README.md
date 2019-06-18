@@ -32,7 +32,7 @@ Let's check it out!
 - [Internally](#internal-comunications)
 - [Externally](#external-communications)
 
-### [Tools // Prefered PLatforms](#tools-and-preferred-platforms)
+### [Tools // Preferred Platforms](#tools-and-preferred-platforms)
 
 - [Tools for Design](#design-tools)
 - [Tools for Developmen](#development-tools)
