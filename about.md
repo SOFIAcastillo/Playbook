@@ -31,7 +31,7 @@ Nuestro proceso es simple:
 - Durante la [planeación](#x) determinamos las tareas que se deben llevar a cabo y las categorizamos por su naturaleza.
 
 - Con base a las tareas a realizar, junto con el equipo, hacemos un check list de no negociables dentro del perfil requerido. 
-  Una vez conocemos las tareas a realizar y los no negociables, determinamos un puesto.
+  Una vez conocemos las tareas a realizar y los no negociables determinamos un puesto.
 
 **Ejemplo:**
 
