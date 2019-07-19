@@ -16,7 +16,7 @@ Once you have the information, you can use it as you please!
 
 You can evaluate each file with your team.
 
-you can use it as a database for your business. 
+You can use it as a database for your business. 
 
 You can question if there's something that needs to be fixed.
 
