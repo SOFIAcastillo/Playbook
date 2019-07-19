@@ -6,7 +6,7 @@ It isn't, unless you desire to **optimize your business vision, structure and op
 
 Yes, you've got your people, tools, processess, whatever... *but are they optimal?* 
 
-A way to answer this question is to first mapp with whom and with what you're working with in the present. [Because](https://youtu.be/CvBfHwUxHIk?t=187) only by knowing what you currently count on, will be be able to consider if there's a better way.
+A way to answer this question is to first map with whom and with what you're working with in the present. [Because](https://youtu.be/CvBfHwUxHIk?t=187) only by knowing what you currently count on, will be be able to consider if there's a better way.
 
 ### How does this whole thing works? (yes, the universe)
 
