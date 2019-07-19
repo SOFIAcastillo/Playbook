@@ -8,7 +8,7 @@ Yes, you've got your people, tools, processess, whatever... *but are they optima
 
 A way to answer this question is to first map with whom and with what you're working with in the present. [Because](https://youtu.be/CvBfHwUxHIk?t=187) only by knowing what you currently count on will you be able to consider if there's a better way to function.
 
-### How does this whole thing works? (yes, the universe)
+### How does this whole thing work? (yes, the universe)
 
 You start off by mapping your people, projects, tools, in order to share this information in a transparent and friendly way for everyone in the team to see. 
 
