@@ -10,9 +10,8 @@
 
 - [Horarios y espacios](#horario-y-espacio)
 - [Días libres](#sobre-los-días-libres)
-- [Cultura de aprendizaje](#aprendizaje)
-- [Petición de cursos libres](#cursos-libres)
-- [Petición de nuevas herramientas/tecnologías/actualizaciones](#transformación)
+- [Growth Culture](#aprendizaje)
+- [Transformation Culture](#transformación)
 
 ---
 
@@ -92,11 +91,11 @@ Nuestro proceso es simple:
 
 Facilitamos el control de días libres con formatos, para que lleves conteo de tus días.
 
-[Formato de Documentación de Días libres](https://docs.google.com/forms/d/e/1FAIpQLSf0KCQd2a4XKagMY9rPTs73RdBS2iyYEpIw4ek_r_RSn5BMrw/viewform)
+[Formato de Documentación de Días libres](#)
 
 Para revisar días libres utilizamos el siguiente link:
 
-[Revisión días libres](https://docs.google.com/spreadsheets/d/1FsSE9F7NaVDc1d7Ftp9vFMS1i2KH1CyAeezwenG8mQg/edit#gid=648772793)
+[Revisión días libres](#)
 
 ---
 
@@ -115,9 +114,9 @@ Buscamos unirnos y aprender en estas actividades.
 
 Si llegas a necesitar un curso que te impulse a optimizar tu trabajo, todo lo que debes hacer es llenar una petición a nuestros directores, para aprobar tu curso y financiarlo. Luego de llenarlo, debes enviar un mensaje directo al director para que revise tu petición adjuntando el form del director, para que vea tu petición lo más pronto posible. 
 
-[Formato de Requisito de Cursos Libres](https://docs.google.com/forms/d/e/1FAIpQLSfBCs6b1kDKEHUtjk_8OwR9T0kJAr271Ughzll40PpZCT46oA/viewform?usp=sf_link)
+[Formato de Requisito de Cursos Libres](#)
 
-[Formato de Revisión de Cursos Libres](https://docs.google.com/spreadsheets/d/1-X69sjwIofzKqTR6Gx1AXqJWMfjrogSjHuiXpBvnp98/edit#gid=285630201)
+[Formato de Revisión de Cursos Libres](#)
 
 ---
 
@@ -127,8 +126,20 @@ Si llegas a necesitar un curso que te impulse a optimizar tu trabajo, todo lo qu
 
 En **INFONET** aceptamos el cambio, si es para mejor, lo tomamos. Por eso, incentivamos a que los miembros del equipo aprendan más sobre nuevas prácticas y nuevas plataformas, para que juntos optimicemos nuestros procesos.
 
-Si el cambio que quieres hacer tiene un costo (una actualización, compra de servicio, tecnología, etc..) por favor llena el form para registrar tu petición y para autorizarla. Una vez llenes el form, puedes enviarle a Luis a través de slack el [form de director](https://docs.google.com/spreadsheets/u/3/d/1uUOVbKl9BRMVpOb65JGrZ2G3iugmtZ8nRVYgoPYi6so/edit?usp=forms_web_b#gid=1817842803). 
+Si el cambio que quieres hacer tiene un costo (una actualización, compra de servicio, tecnología, etc..) por favor llena el form para registrar tu petición y para autorizarla. Una vez llenes el form, puedes enviarle a Luis a través de slack el [form de director](#). 
 
-[Formato de Requisito de Herrameintas](https://docs.google.com/forms/u/3/d/16xqCKR7oUZ3o-PktMpme24VwZKUNxKnLDJNw3vhdADs/edit)
+[Formato de Requisito de Herrameintas](#)
 
-[Revisión de Requisitos de Herramientas](https://docs.google.com/spreadsheets/u/3/d/1uUOVbKl9BRMVpOb65JGrZ2G3iugmtZ8nRVYgoPYi6so/edit?usp=forms_web_b#gid=1817842803)
+[Revisión de Requisitos de Herramientas](#)
+
+
+
+Para dar retroalimentación, procuramos ser respetuosos y constructivos. Aquí dejamos una tabla de ejemplo de comentarios no constructivos y comentarios constructivos. 
+
+el enunciado... | logra | podría... | de otra forma... 
+-- | -- | -- | --
+Esto no sirve | Disminuir la seguridad y autoestima de la persona | Ayudar al equipo a mejorar una función | "Ayúdame a entender tus decisiones, no entiendo esta parte..."
+Eres desorganizado | Concentrar la atención de la persona en malas prácticas | Ayudar al equipo a aprender a priorizar | "¿De qué manera está priorizando el equipo?"
+-- | -- | -- | --
+-- | -- | -- | --
+-- | -- | -- | --
