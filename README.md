@@ -6,15 +6,19 @@ It isn't, unless you desire to **optimize your business vision, structure and op
 
 Yes, you've got your people, tools, processess, whatever... *but are they optimal?* 
 
-A way to make this analysis is to first mapp whith what and with whon you're working with in the present. [BECAUSE](https://youtu.be/CvBfHwUxHIk?t=54) only by knowing what you currently do and what you currently count on, you can consider if there's a better way to function. 
+A way to answer this question is to first mapp with whom and with what you're working with in the present. [Because](https://youtu.be/CvBfHwUxHIk?t=187) only by knowing what you currently count on, will be be able to consider if there's a better way.
 
-### How does it work?
+### How does this whole thing works? (yes, the universe)
 
-map your people, projects, tools. In order to have provide transparent information for everyone in the team. 
+You start off by mapping your people, projects, tools, in order to share this information in a transparent and friendly way for everyone in the team to see. 
 
-centralizing and making visible the business infromation, for you and your team. But, Sofia, *why be aware of that sort of information?* 
+Once you have the information, you can use it as you please! 
 
-Why do for you to map the elements, channels and interrelations of your company. This is a way of making the information available to the whole team, facilitating the flow of your work.
+You can evaluate each file with your team.
+You can question if there's something that needs to be fixed.
+You can sell the information for Bitcoins.
+Anything!
+
 
 --- 
 
