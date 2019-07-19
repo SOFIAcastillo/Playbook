@@ -13,8 +13,9 @@ Let's check it out!
 
 ### [About Us](#us)
 
-- [Shared Values](#values)
 - [How we form the best teams](#best-teams)
+- [Our Culture](#best-teams)
+
 
 ### [People](#people)
 
