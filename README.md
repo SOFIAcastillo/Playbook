@@ -6,11 +6,13 @@ It isn't, unless you desire to **optimize your business vision, structure and op
 
 Yes, you've got your people, tools, processess, whatever... *but are they optimal?* 
 
-In order to evaluate if you're working in the best way you can, you can start by centralizing and making visible the business infromation, for you and your team. But, Sofia, *why be aware of that sort of information?* Be-e-ecause only by knowing what you currently do and what you currently count on, you can consider if there's a better way to function. 
+A way to make this analysis is to first mapp whith what and with whon you're working with in the present. BECAUSE(https://www.youtube.com/watch?v=CvBfHwUxHIk) only by knowing what you currently do and what you currently count on, you can consider if there's a better way to function. 
 
 ### How does it work?
 
 map your people, projects, tools. In order to have provide transparent information for everyone in the team. 
+
+centralizing and making visible the business infromation, for you and your team. But, Sofia, *why be aware of that sort of information?* 
 
 Why do for you to map the elements, channels and interrelations of your company. This is a way of making the information available to the whole team, facilitating the flow of your work.
 
