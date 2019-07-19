@@ -10,19 +10,19 @@ A way to answer this question is to first map with whom and with what you're wor
 
 ### How does this whole thing work? (yes, the universe)
 
-You start off by mapping your people, projects, tools, in order to share this information in a transparent and friendly way for everyone in the team to see. 
+You start off by mapping your people, projects, tools, into the format, which allows the information to present itself as transparent and friendly for everyone in the team to see. You can use the given fields or you can create your own, this is truly just a way of providing a structure that you can adapt to your own needs.
 
-Once you have the information, you can use it as you please! 
+Once you have the information mapped, you can use it as you please! 
 
-You can evaluate each file with your team.
+- You can evaluate each file with your team.
 
-You can use it as a database for your business. 
+- You can use it as a database for your business. 
 
-You can question if there's something that needs to be fixed.
+- You can question if there's something that needs to be fixed.
 
-You can sell the information for Bitcoins.
+- You can sell the information for Bitcoins.
 
-Anything!
+- Anything!
 
 
 --- 
