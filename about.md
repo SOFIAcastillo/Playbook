@@ -1,53 +1,62 @@
-# Sobre Nosotros       
+# About us        
 
-### [Cómo formamos los mejores equipos](#formando-los-mejores-equipos)
+### [How we form the best teams](#forming-the-best-teams)
 
-- [Nuestros valores](#valores)
-- [Selección de expertos](#seleccionando-expertos)
-- [Nuevos integrantes](#para-nuevos-integrantes)
+- [What we value](#Values)
+- [Choosing our experts](#choosing-experts)
+- [New members](#para-nuevos-integrantes)
 
-### [Cultura dentro de la empresa](#cultura)
+### [Our Culture](#culture)
 
-- [Horarios y espacios](#horario-y-espacio)
-- [Días libres](#sobre-los-días-libres)
+- [Work Spaces](#spaces)
+- [Work Schedules](#schedules)
 - [Growth Culture](#aprendizaje)
 - [Transformation Culture](#transformación)
 
 ---
 
-## Formando los mejores equipos
+## Forming the best teams 
 
-### Valores
+### Values
 
-....
+In this company:
+
+- We value each other's time, because yes.
+- We value ideas, we believe that dadadadadadada.
+- We value curiosity, we believe that is yadaadada.
+- We value feedback, it has always yada yaaaa dada. 
+- We value people's integrity, because people are people. 
+- We value etc.
 
 ---
 
-### Seleccionando expertos
+### Choosing experts 
 
-Nuestro proceso es simple:
+Our process:
 
-- Durante la [planeación](#x) determinamos las tareas que se deben llevar a cabo y las categorizamos por su naturaleza.
 
-- Con base a las tareas a realizar, junto con el equipo, hacemos un check list de no negociables dentro del perfil requerido. 
-  Una vez conocemos las tareas a realizar y los no negociables determinamos un puesto.
+- During our [planning phase](#x) we determine the tasks that we need to get done, and we sort them by category.
 
-**Ejemplo:**
+- Based upon those categories, along with the team, we make a story of the profile of the person, determining the non-negotiables that     the person must have to satisfy the need.
 
->**Tarea:**
+- We determine the title of the position.   
+
+
+**For example:**
+
+>**Categorized Tasks:**
 >
->*- necesitamos desarrollar un backend en lenguaje java*
->*- necesitamos editar el backend de una plataforma*
+>*- we need backend development for the platform*
+>*- we need frontend development for the platform *
 >
->**No negociables para la persona que buscamos:**
+>**Non negotiables for task #1:**
 >
->*- que ya haya desarrollado back end*
->*- que conozca cierta librería*
->*- que sepa el lenguaje de Java*
+>*- previous backend experience*
+>*- experience with java script*
 >
->**Puesto determinado:**
+>**Title position for task #1:**
 >
->*- desarrollador backend JAVA*
+>*- senior backend developer, java*
 
 
 - De esta manera podemos transferir la información a un [Formato de contratación](#contratación), el cuál compartimos con nuestras fuentes de reclutamiento >> 
