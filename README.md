@@ -42,15 +42,15 @@ Let's check it out!
 
 ### [About Us](https://github.com/sofiacastillod/Playbook/blob/master/about.md)
 
-- [How we form the best teams](#best-teams)
-- [Our Culture](#best-teams)
+- [How we form the best teams](https://github.com/sofiacastillod/Playbook/blob/master/about.md#forming-the-best-teams)
+- [Our Culture](https://github.com/sofiacastillod/Playbook/blob/master/about.md#Culture)
 
 
 ### [People](https://github.com/sofiacastillod/Playbook/blob/master/people.md)
 
-- [Designers](#values)
-- [Developers](#best-teams)
-- [Directors](#best-teams)
+- [Design](https://github.com/sofiacastillod/Playbook/blob/master/people.md#Designers)
+- [Developers](https://github.com/sofiacastillod/Playbook/blob/master/people.md#Developers)
+- [Directors](https://github.com/sofiacastillod/Playbook/blob/master/people.md#Directors)
 
 ### [Our Projects](https://github.com/sofiacastillod/Playbook/blob/master/tools.md)
 
