@@ -6,7 +6,7 @@
 - [Choosing our experts](#choosing-experts)
 - [New members](#para-nuevos-integrantes)
 
-### [Our Culture](#culture)
+### [Our Culture](#Culture)
 
 - [Work Spaces](#spaces)
 - [Work Schedules](#schedules)
@@ -86,7 +86,7 @@ Our process:
 
 ---
 
-## Cultura
+## Culture
 
 
 ### Horario y espacio
