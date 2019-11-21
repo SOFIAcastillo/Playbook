@@ -1,17 +1,16 @@
 
-## Nosotros
+## People
 
 
-- [Administradores](#administración)
-- [Científicos de datos](#ciencia-de-los-datos)
-- [Creadores de contenido](#contenido)
-- [Desarrolladores](#desarrollo)
-- [Diseñadores](#diseño)
-- [Soporte y QA](#soporte-&-QA)
+- [Design](#Designers)
+- [Development](#Developers)
+- [Direction](#Directors)
+
+
 
 -----
 
-### Administración  
+### Designers  
 
 expertise | rol determinado | persona que ocupa el rol | proyecto
 -- | -- | -- | --
@@ -20,7 +19,7 @@ expertise | rol determinado | persona que ocupa el rol | proyecto
 
 ---
 
-### Ciencia de los datos
+### Developers
 
 expertise | rol determinado | persona que ocupa el rol | proyecto
 -- | -- | -- | --
@@ -28,43 +27,13 @@ expertise | rol determinado | persona que ocupa el rol | proyecto
 
 ---
 
-### Contenido
+### Directors
 
 expertise | rol determinado | persona que ocupa el rol | proyecto
 -- | -- | -- | -- 
 -- | -- | -- | --
 
 ---
-
-### Desarrollo 
-
-expertise | rol determinado | persona que ocupa el rol | proyecto
--- | -- | -- | --
--- | -- | -- | --
--- | -- | -- | --
--- | -- | -- | --
-
----
-
-### Diseño
-
-expertise | rol determinado | persona que ocupa el rol | proyecto
--- | -- | -- | --
--- | -- | -- | --
--- | -- | -- | --
--- | -- | -- | --
-
-
----
-
-### Soporte & QA 
-
-expertise | rol determinado | persona que ocupa el rol | proyecto
--- | -- | -- | --
--- | -- | -- | --
--- | -- | -- | --
-
-
 
 
 
